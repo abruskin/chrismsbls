@@ -1,0 +1,23 @@
+PART 1: 
+CO 8 stitches and join in round 
+Round 1: kfb into each stitch 
+Round 2 (and all even rounds: k all stitches)
+round 3: k1 *m1 k2, repeat from * to last stitch, m1 k1 (24 stitches) 
+round 5: k1 *m1 k3, repeat from * to last stitch, m1 k2 (32 stitches) 
+round 7: k1 *m1 k4, repeat from * to last stitch, m1 k3 (40 stitches) 
+round 9: k1 *m1 k5, repeat from * to last stitch, m1 k4 (48 stitches) 
+
+PART 2
+knit 11 rounds plain 
+
+PART 3
+Round 2 and all even rounds: k 1 round
+if using a styrofoam ball, pop it in now and work around it
+Round 1: k4 ssk repeat to end (40 stitches)
+Round 3: k3 ssk repeat to end (32 stitches)
+Round 5: k2 ssk repeat to end (24 stitches)
+Round 7: k1 ssk repeat to end (16 stitches)
+Round 9: k2tog repeat to end (8 stitches)
+next round: k2tog 4 times. 
+then icord until long enough to make a nice loop. 
+Weave in top ends; use CO end to close up gap on bottom and weave in end.
